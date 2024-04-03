@@ -1,5 +1,5 @@
-<H3>NAME : RAJESH A</H3>
-<H3>REG NO : 212222100042</H3>
+<H3>NAME : SANJAY M</H3>
+<H3>REG NO : 212222110038</H3>
 <H3>EXP NO : 3</H3>
 <H3>DATE : 01/04/2024</H3>
 <H2 aligh = center> Implementation of MLP for a non-linearly separable data</H2>
